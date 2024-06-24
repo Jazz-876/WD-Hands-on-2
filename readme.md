@@ -10,7 +10,7 @@
   <h3 align="center">Hero and Card Styles Project</h3>
 </div>
 <div align="center">
-  This project showcases various hero and card styles implemented using HTML, CSS, and JavaScript.
+  This project showcases various hero and card styles implemented using HTML AND CSS.
 </div>
 
 <br />
